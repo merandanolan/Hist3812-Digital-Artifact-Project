@@ -31,3 +31,9 @@ Vintage Dinner ware: experimenting with what type of background, lighting, angle
 
 •	Overall Trnio has been working better for me, zephyr crashes if I have been working on it for a while and can’t handle larger objects.
 •	While doing some basic introductory research on my objects, I feel that my vintage plates have the most substantial background and are the most realistic 3D object for me to recreate.
+
+Jan 24, 2018
+Final Choice for 3D Project = small dessert/ tea plate made by Sovereign Potters Canada
+ (see obect bio notes)
+ 
+ 
