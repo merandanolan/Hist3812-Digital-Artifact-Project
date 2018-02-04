@@ -46,4 +46,6 @@ Natural light, no solid background, stand to hold plate upright (green), upward 
 Natural light, one lamp nearby, White background, covered green stand with white sheet, downward camera angle	Light good, slight shadow, background good (adjust the position of background slightly to cover full camera turn), angle similar problem to last test.
 Natural Light, Lamp placed above object, white background, stand covered in white sheet, straight on camera angle 	Light good no shadow, background good, camera angle good
 
+Feb 2, 2018
+Was able to trim the background but in 3D paint, save it, but when I opened it the background was still there. Edits not being properly saved.
 
