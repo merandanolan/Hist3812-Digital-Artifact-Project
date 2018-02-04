@@ -40,4 +40,10 @@ Final Choice for 3D Project = small dessert/ tea plate made by Sovereign Potters
 Troubleshooting:
 Trnio is not allowing me to properly trim the model. It is glitching every time I try to export the model to a different software.
 
+Tracking progress for Vintage Dinner Ware
+Test 	Outcome
+Natural light, no solid background, stand to hold plate upright (green), upward camera angle	Light slightly too low, background messy, green stand takes away from details of plate, camera angle ok but makes curvature of plate slightly distorted
+Natural light, one lamp nearby, White background, covered green stand with white sheet, downward camera angle	Light good, slight shadow, background good (adjust the position of background slightly to cover full camera turn), angle similar problem to last test.
+Natural Light, Lamp placed above object, white background, stand covered in white sheet, straight on camera angle 	Light good no shadow, background good, camera angle good
+
 
