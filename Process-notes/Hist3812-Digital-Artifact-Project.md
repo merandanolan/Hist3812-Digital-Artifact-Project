@@ -36,4 +36,8 @@ Jan 24, 2018
 Final Choice for 3D Project = small dessert/ tea plate made by Sovereign Potters Canada
  (see obect bio notes)
  
- 
+ Jan 30, 2018
+Troubleshooting:
+Trnio is not allowing me to properly trim the model. It is glitching every time I try to export the model to a different software.
+
+
