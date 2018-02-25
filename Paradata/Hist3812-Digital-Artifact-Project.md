@@ -1,3 +1,5 @@
+MODULE 1:
+
 Paradata:
 
 Object: Dessert /tea plate by Sovereign Potters Canada
@@ -27,3 +29,35 @@ Etsy. (2018). SET of 4 mid-century (c.1940s) Montcalm dinner plates by Sovereign
 Maxwell, M. 2017 Power is in the Process: The ACCORD project, Internet Archaeology 44. https://doi.org/10.11141/ia.44.10
 
 
+
+
+MODULE 2:
+
+Object: Mosaic Photograph
+
+Remixed Objects: 
+  - Used the Texture.JPEG image (provided from the Zephyr 3D Model used in testing Module 1) 
+  - Family Photograph (Ann, Grandmother, Mother, Wayne, Eileen, Cyril, at Christmas 1981 )
+  
+ Software: Mosaically.com and Windows Photo viewer (edit& create feature) 
+  
+ Reasoning for Software: 
+  Mosaically.com is free to use and has user friendly interface. I already has Windows Photo viewer and have used it in the past. Their   photo editing feature is easy to use and is compatible with Mosaically.com. 
+ 
+ Reasoning for Remixing objects:
+    - Used Photobashing technique as described by Tara Copplestones' blog post "Making Things: Photobashing As Archaeological                 Remediation?" (2015). I was inspired by her perspective on making the documentation process more creative and personal. By turning       two archived family heirlooms into a creative "art" piece, I feel it makes them more approachable and interactive. 
+    - [see personal reasoning for choosing original object in Mod 1] Family Photograph contains depicts the 3 people who owned the plate       before myself. 
+    
+  Audience: [see Audience for mod 1] I would also like to include remixed photographs in the database. 
+  
+  Accessibility: [see Accessibility for mod1] Basic internet access, possibility a Facebook account? (at least until the database is                      officially available. 
+  
+  Issues and what I would like to change: 
+          Overall, this process was smooth and fun to do. It did take some experimentation with finding                                           the correct colours to match the main photograph and make the mosaic as clear as possible. 
+          
+ Bibliography:
+ 
+ Copplestone, Tara 2015 Making Things: Photobashing As Archaeological Remediation?, GAMINGARCHAEO.      http://blog.taracopplestone.co.uk/making-things-photobashing-as-archaeological-remediation/
+  
+ 
+  
