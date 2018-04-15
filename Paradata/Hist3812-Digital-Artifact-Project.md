@@ -58,6 +58,34 @@ Remixed Objects:
  Bibliography:
  
  Copplestone, Tara 2015 Making Things: Photobashing As Archaeological Remediation?, GAMINGARCHAEO.      http://blog.taracopplestone.co.uk/making-things-photobashing-as-archaeological-remediation/
-  
  
+ 
+ 
+ 
+ 
+ MODULE 3:
+ TBD
+ 
+ 
+ 
+ 
+  MODULE 4:
+  Paradata:
+  
+  Object (s): ARIS game, Saint Joseph's welcome sign photograph, Plate photograph
+  
+  Reasoning for Objects: The photograph of the plate for the actual digital artifact. the photograph of the welcome sign as a way to       introduce the theme of the tour / game. 
+  
+  Software: ARIS & Vuforia
+  
+  Reasoning for software: my main draw to ARIS was that I could intergrate my objects with a physical location that was away from where   i physically was. I wanted to be able to create a "virtual" tour of the town.
+  
+  Theme / idea behind game: The main goal of the game was to create a virtual tour of the town. While there may or may not be other       artifacts added in the future, the focus for now is the plate (and by extension the welcome sign for context). In theory, someone would be able to walk around the town and be introduced to different artifacts, stories, photographs, history, etc. 
+  
+  Audience: [see mod 1] The audience may also include people with little knowledge of the area and are interested in its history. 
+  
+  Accessibility: Must have IOS smartphone 
+  
+  Issues/ challenges / what I would change: Software was easy enough to use. It did take some experimentation in how to use the objects in relation to the triggers. This resulted in creating multiple versions of the game, as it was difficult to edit the order of triggers and objects once they were created. The tutorials were unhelpful in showing me how to publish the game, none seemed to work properly. an issue I ran into was the inability to properly test the finished result, both because of the publishing issues, but also because I am not physically in the location the game takes place. In the future, I would like to add more objects to make the virtual tour more comprehensive. as well as creating a test game set to my current location for the purpose of properly testing the game. 
+  
   
